@@ -1,2 +1,0 @@
-#define AMIDE_ICON 104
-#define AMIDE_FILE_ICON 105

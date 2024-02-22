@@ -1,4 +1,0 @@
-#include "resource.h"
-
-AMIDE_ICON		ICON "amide.ico"
-AMIDE_FILE_ICON		ICON "amide_file.ico"
